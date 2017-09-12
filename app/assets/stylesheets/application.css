@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+body {
+  background: url(http://cdn.wallpapersafari.com/12/0/1rEabv.jpg)
+}
+h1 {
+  color: lightgrey;
+  text-align: center;
+  font-family: 'Princess Sofia', cursive;
+}
+ul {
+  color: white;
+  font-family: 'Source Code Pro', monospace;
+}
+.flex-container {
+  align-content: center;
+}
